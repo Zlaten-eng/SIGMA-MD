@@ -37,7 +37,7 @@ cmd({
   try {
     if (!q) return reply('Please provide a URL to shorten.');
 
-    await reply('> *CASEYRHODES-XMD is Processing...*');
+    await reply('> *SIGMA-MD is Processing...*');
 
     let apiUrl = '';
     if (command === 'tiny' || command === 'tinyurl') {
@@ -51,7 +51,7 @@ cmd({
     const response = await fetchJson(apiUrl);
     const result = response.result;
 
-    const caption = ` \`CASEYRHODES XMD URL SHORTENER\` \n\n\n*Original Link:* ${q}\n\n*Shortened Link:* ${result}\n\n> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ caseyrhodes`;
+    const caption = ` \`SIGMA-MD URL SHORTENER\` \n\n\n*Original Link:* ${q}\n\n*Shortened Link:* ${result}\n\n> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ conway`;
 
    /* await conn.sendMessage(m.chat, { text: caption }, { quoted: m });
   } catch (error) {
@@ -69,8 +69,8 @@ cmd({
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363302677217436@newsletter',
-                    newsletterName: '『 𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒 𝐗𝐌𝐃 𝐒𝐇𝐎𝐑𝐓 𝐔𝐑𝐋 』',
+                    newsletterJid: '120363400583993139@newsletter',
+                    newsletterName: '『 SIGMA-MD SHORT URL 』',
                     serverMessageId: 143
                 }
             }
