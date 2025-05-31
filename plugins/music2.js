@@ -66,8 +66,8 @@ cmd({
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "120363302677217436@newsletter",
-          newsletterName: "CASEYRHODES XMD",
+          newsletterJid: "120363400583993139@newsletter",
+          newsletterName: "SIGMA-MD",
           serverMessageId: 143
         }
       }
@@ -92,7 +92,7 @@ cmd({
           case "1":
             await conn.sendMessage(senderID, {
               video: { url: downloadLink },
-              caption: "*CASEYRHODES XMD*"
+              caption: "*SIGMA-MD*"
             }, { quoted: receivedMsg });
             break;
 
@@ -101,7 +101,7 @@ cmd({
               document: { url: downloadLink },
               mimetype: "video/mp4",
               fileName: `${ytData.title}.mp4`,
-              caption: "*CASEYRHODES-XMD*"
+              caption: "*SIGMA-MD*"
             }, { quoted: receivedMsg });
             break;
 
