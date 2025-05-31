@@ -33,7 +33,7 @@ try {
 ┇๏ *Author* -  ${yts.author.name} 
 ┇๏ *Link* -  ${yts.url}
 ╰━━❑━⪼
-> *© SILVA SPARK ♡*`;
+> *© SIGMA-MD ♡*`;
     
     // Send details with thumbnail
     await conn.sendMessage(from, { 
@@ -53,7 +53,7 @@ try {
         document: { url: ytdl.download.url },
         mimetype: "audio/mpeg",
         fileName: `${yts.title.replace(/[^a-zA-Z0-9]/g, '_')}.mp3`, // Sanitize filename
-        caption: `> *© Powered By SILVA SPARK ♡*`
+        caption: `> *© SIGMA-MD ♡*`
     }, { quoted: mek });
     
 } catch (e) {
