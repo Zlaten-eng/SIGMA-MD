@@ -10,18 +10,20 @@ cmd({
 }, async (conn, m, { reply }) => {
   const voiceClips = [
     "https://cdn.ironman.my.id/i/7p5plg.mp4",
-    "https://cdn.ironman.my.id/i/rnptgd.mp4",
-    "https://cdn.ironman.my.id/i/smsl2s.mp4",
-    "https://cdn.ironman.my.id/i/vkvh1d.mp4",
-    "https://cdn.ironman.my.id/i/9xp5lb.mp4",
-    "https://cdn.ironman.my.id/i/jfr6cu.mp4",
-    "https://cdn.ironman.my.id/i/l4dyvg.mp4",
-    "https://cdn.ironman.my.id/i/4z93dg.mp4",
-    "https://cdn.ironman.my.id/i/m9gwk0.mp4",
-    "https://cdn.ironman.my.id/i/gr1jjc.mp4",
-    "https://cdn.ironman.my.id/i/lbr8of.mp4",
-    "https://cdn.ironman.my.id/i/0z95mz.mp4",
-    "https://cdn.ironman.my.id/i/rldpwy.mp4",
+'https://files.catbox.moe/xci982.mp3',
+    'https://files.catbox.moe/utbujd.mp3',
+    'https://files.catbox.moe/w2j17k.m4a',
+    'https://files.catbox.moe/851skv.m4a',
+    'https://files.catbox.moe/qnhtbu.m4a',
+    'https://files.catbox.moe/lb0x7w.mp3',
+    'https://files.catbox.moe/efmcxm.mp3',
+    'https://files.catbox.moe/gco5bq.mp3',
+    'https://files.catbox.moe/26oeeh.mp3',
+    'https://files.catbox.moe/a1sh4u.mp3',
+    'https://files.catbox.moe/vuuvwn.m4a',
+    'https://files.catbox.moe/wx8q6h.mp3',
+    'https://files.catbox.moe/uj8fps.m4a',
+    'https://files.catbox.moe/dc88bx.m4a',
     "https://cdn.ironman.my.id/i/lz2z87.mp4",
     "https://cdn.ironman.my.id/i/gg5jct.mp4"
   ];
@@ -45,11 +47,11 @@ cmd({
       forwardingScore: 55555,
       isForwarded: true,
       externalAdReply: {
-        title: "𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒 𝐓𝐄𝐂𝐇",
+        title: "HACKLINK  𝐓𝐄𝐂𝐇",
         body: "𝐓𝝰̚𝐠͜͡𝗲 𝝪𝐨̚𝝻͜͡𝐫 𝐋𝝾̚𝝼͜͡𝗲 :🦚🍬⛱️🎗️💖",
         mediaType: 4,
-        thumbnailUrl: "https://files.catbox.moe/ord5nm.jpg",
-        sourceUrl: "https://Wa.me/+254781496274",
+        thumbnailUrl: "https://https://files.catbox.moe/7y24v8.jpg",
+        sourceUrl: "https://Wa.me/+254769677305",
         showAdAttribution: true
       }
     },
