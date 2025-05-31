@@ -27,7 +27,7 @@ cmd({
     }
 
     // Fetch latest version data from GitHub
-    const rawVersionUrl = 'https://raw.githubusercontent.com/caseyweb/CASEYRHODES-XMD/main/data/version.json';
+    const rawVersionUrl = 'https://raw.githubusercontent.com/YAMAL-YENG/SIGMA-MD/main/data/version.json';
     let latestVersion = 'Unknown';
     let latestChangelog = 'No changelog available.';
     try {
@@ -53,7 +53,7 @@ cmd({
     const lastUpdate = fs.statSync(localVersionPath).mtime.toLocaleString();
 
     // GitHub stats
-    const githubRepo = 'https://github.com/caseyweb/CASEYRHODES-XMD';
+    const githubRepo = 'https://github.com/YAMAL-YENG/SIGMA-MD';
 
     // Check update status
     let updateMessage = `*✅ ʏᴏᴜʀ ᴄᴀsᴇʏʀʜᴏᴅᴇs-xᴍᴅ ʙᴏᴛ ɪs ᴜᴘ-ᴛᴏ-ᴅᴀᴛᴇ!*`;
@@ -73,14 +73,14 @@ cmd({
 
     // Send the status message with an image
     await conn.sendMessage(from, {
-      image: { url: 'https://i.ibb.co/zh3QjTp4/lordcasey.jpg' },
+      image: { url: 'https://files.catbox.moe/7y24v8.jpg' },
       caption: statusMessage,
       contextInfo: {
         mentionedJid: [m.sender],
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '+120363302677217436@newsletter',
+          newsletterJid: '120363400583993139@newsletter',
           newsletterName: '☇ ᴄᴀsᴇʏʀʜᴏᴅᴇs-xᴍᴅ ⃪🤖͎᪳᪳𝆺𝅥',
           serverMessageId: 143
         }
