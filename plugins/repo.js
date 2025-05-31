@@ -16,16 +16,16 @@ try{
 let repo =`
 *╭──────────────●●►*
 > *BOT OWNER:*
-*|* *CASEYWEB*
+*|* *Conway*
 
 > *CASEYWEB REPO:*
-*|* https://github.com/caseyweb/CASEYRHODES XMD
+*|* https://github.com/YAMAL-YENG/SIGMA-MD
 
 > *SUPPORT GROUP:*
-*|* https://whatsapp.com/channel/0029VaoRxGmJpe8lgCqT1T2h
+*|* https://chat.whatsapp.com/E9mVfukNRX13eF45Wbmk7t
 *╰──────────────●●►*
 
-> *CREATED BY CASEYRHODES TECH*
+> *CREATED BY HACKLINK TECH*
 `
 await conn.sendMessage(from, { text: repo ,
   contextInfo: {
@@ -34,8 +34,8 @@ await conn.sendMessage(from, { text: repo ,
     forwardingScore: 999,
     isForwarded: false,
     forwardedNewsletterMessageInfo: {
-      newsletterJid: '120363318387454868@newsletter',
-      newsletterName: "𝐀ɭι̇ι̇ 𝐌Ɗ 🍁",
+      newsletterJid: '120363400583993139@newsletter',
+      newsletterName: "SIGMA-MD",
       serverMessageId: 999
     },
 externalAdReply: { 
@@ -70,7 +70,7 @@ cmd({
     filename: __filename,
 },
 async (conn, mek, m, { from, reply }) => {
-    const githubRepoURL = 'https://github.com/caseyweb/CASEYRHODES-XMD';
+    const githubRepoURL = 'https://github.com/YAMAL-YENG/SIGMA-MD';
 
     try {
         // Extract username and repo name from the URL
@@ -86,15 +86,15 @@ async (conn, mek, m, { from, reply }) => {
         const repoData = await response.json();
 
         // Format the repository information
-        const formattedInfo = `*𝐇𝐄𝐋𝐋𝐎 𝐓𝐇𝐄𝐑𝐄 𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒-𝐗𝐌𝐃 𝐖.𝐀 𝐁𝐎𝐓 𝐔𝐒𝐄𝐑!😇👑* 
+        const formattedInfo = `*HELLO I'M SIGMA-MD DEVELOPED BY HACKLINK TECH !😇👑* 
 
 > *sɪᴍᴘʟᴇ, ɪᴄʏ, ᴄᴏʟᴅ  & ʀɪᴄʜ ʟᴏᴀᴅᴇᴅ ʙᴏᴛ ᴡɪᴛʜ ᴀᴍᴀᴢɪɴɢ ғᴇᴀᴛᴜʀᴇs, ᴄᴀsᴇʏʀʜᴏᴅᴇs ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ.*❄️
 
-*𝐓𝐇𝐀𝐍𝐊𝐒 𝐅𝐎𝐑 𝐔𝐒𝐄𝐈𝐍𝐆 𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒-𝐗𝐌𝐃🫶* 
+*THANKS FOR DEPLOYING ME🫶* 
 
 > *ᴅᴏɴ'ᴛ ғᴏʀɢᴇᴛ ᴛᴏ sᴛᴀʀ & ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ🌟🍴*
 
-https://github.com/caseyweb/CASEYRHODES-XMD
+https://github.com/YAMAL-YENG/SIGMA-MD
 ──────────────────
 ${readMore}
 \`BOT NAME:\`❄️
@@ -116,14 +116,14 @@ ${readMore}
 
         // Send an image with the formatted info as a caption and context info
         await conn.sendMessage(from, {
-            image: { url: `https://files.catbox.moe/heu4tc.png` },
+            image: { url: `https://files.catbox.moe/7y24v8.jpg` },
             caption: formattedInfo,
             contextInfo: { 
                 mentionedJid: [m.sender],
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363302677217436@newsletter',
+                    newsletterJid: '120363400583993139@newsletter',
                     newsletterName: '☇ cαsєчrhσdєs suppσrt  ⃪🤖͎᪳᪳𝆺𝅥',
                     serverMessageId: 143
                 }
@@ -132,16 +132,16 @@ ${readMore}
 
         // Send the audio file with context info
         await conn.sendMessage(from, {
-            audio: { url: 'https://cdn.ironman.my.id/i/wp4a7x.mp4' },
-            mimetype: 'audio/mp4',
+            audio: { url: 'https://files.catbox.moe/u66h53.mp3' },
+            mimetype: 'audio/mp3',
             ptt: true,
             contextInfo: { 
                 mentionedJid: [m.sender],
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363302677217436@newsletter',
-                    newsletterName: '☇ cαsєчrhσdєs suppσrt⃪🤖͎᪳᪳𝆺𝅥',
+                    newsletterJid: '120363400583993139@newsletter',
+                    newsletterName: '☇ SIGMA-MD SUPPORT CHANNEL ',
                     serverMessageId: 143
                 }
             }
