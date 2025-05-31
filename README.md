@@ -45,7 +45,9 @@
   <i>This bot is still under maintenance, and sometimes APIs might be down. Apologies for the inconvenience; we are working to make it better!</i>
 </p>
 
-
+codespaces installation
+run: yarn install
+     yarn start
 
 
 
