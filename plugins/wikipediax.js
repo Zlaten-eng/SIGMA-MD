@@ -1,4 +1,4 @@
-const config = require('../config');
+ const config = require('../config');
 const { cmd, commands } = require('../command');
 const wiki = require('wikipedia');
 
@@ -31,7 +31,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
 🔗 *URL*: ${summary.content_urls.desktop.page}
 
-> @ Powdered By ℂ𝔸𝕊𝔼𝕐ℝℍ𝕆𝔻𝔼𝕊-𝕏𝕄𝔻 `;
+> @ Powdered By SIGMA-MD  `;
 
         // Send the reply with the thumbnail image
         await conn.sendMessage(from, { image: { url: summary.originalimage.source }, caption: replyText }, { quoted: mek });
