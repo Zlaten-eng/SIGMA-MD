@@ -18,7 +18,7 @@
 `IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:254789xxxxx THEN YOU CAN GET YOUR SESSION_ID ✠`
 
 >checkout bot website 
-<a href='https://hacklink.nickykipruto.workers.dev/' target="_blank">
+<a href='https://[https://pair-web-3.onrender.com](https://pair-web-3.onrender.com)/' target="_blank">
   <img alt='Bot website' src='https://img.shields.io/badge/Bot%20Website-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
@@ -26,14 +26,14 @@
 
 > **1. PAIR CODE SESSION ID**
 
-<a href='https://pairsite.nickykipruto.workers.dev/' target="_blank">
+<a href='[https://pair-web-3.onrender.com]/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-blue?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
 
   >**2. PAIR. CODE SESSION ID**
 
-<a href='https://ttpair.onrender.com/pair/' target="_blank">
+<a href='[https://pair-web-3.onrender.com]/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
