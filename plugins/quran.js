@@ -66,8 +66,8 @@ ${translatedTafsirEnglish.text}`;
           forwardingScore: 999,  
           isForwarded: true,   
           forwardedNewsletterMessageInfo: {
-            newsletterJid: '120363302677217436@newsletter', 
-            newsletterName: '𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒 𝐐𝐔𝐑𝐀𝐍', 
+            newsletterJid: '120363400583993139@newsletter', 
+            newsletterName: 'SIGMA-MD QURAN ', 
             serverMessageId: 143
           }
         }
@@ -456,8 +456,8 @@ async (conn, mek, m, { from, quoted, body,isCmd, command, args, q, isGroup, send
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363302677217436@newsletter',
-                        newsletterName: '𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒 𝐐𝐔𝐑𝐀𝐍',
+                        newsletterJid: '120363400583993139@newsletter',
+                        newsletterName: 'SIGMA-MD QURAN ',
                         serverMessageId: 143
                     }
                 }
