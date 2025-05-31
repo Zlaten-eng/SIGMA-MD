@@ -41,7 +41,7 @@ async (Void, m, { args, reply }) => {
             `${numberList}\n` +
             `│\n` +
             `│ 💡 *Usage:* .otpbox <number>\n` +
-            `╰──「 Powered by *CASEYRHODES-TECH* 」`
+            `╰──「 Powered by *HACKLINK TECH* 」`
         );
 
     } catch (err) {
