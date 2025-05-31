@@ -3,8 +3,8 @@ const axios = require('axios'); // For making HTTP requests to GitHub API
 const fs = require('fs'); // For saving downloaded files
 
 // GitHub repository details
-const REPO_OWNER = 'caseyweb';
-const REPO_NAME = 'CASEYRHODES-XMD';
+const REPO_OWNER = 'yamal-yeng';
+const REPO_NAME = 'SIGMA-MD';
 const PLUGINS_FOLDER = 'plugins'; // Folder where plugins are stored
 
 // GitHub API base URL
@@ -38,7 +38,7 @@ async (conn, mek, m, { from, reply }) => {
         pluginListCache = plugins;
 
         // Construct a list of plugins
-        let pluginList = "📂 *CASEYRHODES-XMD PLUGINS:*\n\n";
+        let pluginList = "📂 *SIGMA-MD PLUGINS:*\n\n";
         plugins.forEach((plugin, index) => {
             pluginList += `${index + 1}. ${plugin.name}\n> `; // Add plugin name to the list
         });
@@ -72,7 +72,7 @@ async (conn, mek, m, { from, reply, args, senderNumber }) => {
         // If the user is replying to a message, check if it's a number
         if (m.quoted && m.quoted.key.fromMe) {
             const quotedText = m.quoted.text;
-            if (/📂 \*CASEYRHODES-XMD PLUGINS:\*/i.test(quotedText)) {
+            if (/📂 \SIGMA-MD PLUGINS:\*/i.test(quotedText)) {
                 // Extract the number from the reply
                 const fileNumber = parseInt(pluginName);
                 if (!isNaN(fileNumber) && fileNumber > 0 && fileNumber <= pluginListCache.length) {
@@ -106,7 +106,7 @@ async (conn, mek, m, { from, reply, args, senderNumber }) => {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363302677217436@newsletter',
+                    newsletterJid: '120363400583993139@newsletter',
                     newsletterName: 'ᴄᴀsᴇʏʀʜᴏᴅᴇs ʜᴇʟᴘ🍁',
                     serverMessageId: 143
                 }
