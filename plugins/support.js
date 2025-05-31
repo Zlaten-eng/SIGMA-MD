@@ -28,20 +28,20 @@ let dec = `
 
 ⟣──────────────────⟢
 
-> 𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒-𝐗𝐌𝐃 
+> SIGMA-MD 
 
 ⟣──────────────────⟢
 ${readMore}
 \`CHANNEL🛠️\`
-https://tinyurl.com/26kh6jss
+https://whatsapp.com/channel/0029VbAVuiVBPzjdU7EVNw0t
 
 \`GROUP\` 👥
 
-https://tinyurl.com/26kh6jss
+https://chat.whatsapp.com/E9mVfukNRX13eF45Wbmk7t
 
 \`𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒 𝐗𝐌𝐃\` *Dev🧑‍💻*
 
-wa.me/+254112192119?text=Support!
+wa.me/+254769677305?text=Support!
 
 ⟣──────────────────⟢
 
@@ -50,15 +50,15 @@ wa.me/+254112192119?text=Support!
 await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/NdGZ99mN/705f0162-de6f-4fb8-a78f-6c563969093c.jpg` },
+                image: { url: `https://files.catbox.moe/7y24v8.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363302677217436@newsletter',
-                        newsletterName: '『 𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒-𝐗𝐌𝐃 』',
+                        newsletterJid: '120363400583993139@newsletter',
+                        newsletterName: '『 SIGMA-MD 』',
                         serverMessageId: 143
                     }
                 }
