@@ -8,32 +8,19 @@ cmd({
     filename: __filename
 }, async (conn, mek, m, { reply }) => {
     const familyList = `
-         *[ • CASEYRHODES 𝖥𝖠𝖬𝖨𝖫𝖸 • ]*
+         *[ • HACKLINK TECH FAMILY• ]*
 
-    [ • CASEYRHODES: 𝖢𝖠𝖱𝖬𝖤𝖭👸 ]
+    [ • CONWAY: 👸 ]
        *•────────────•⟢*
                 *𝖥𝖱𝖨𝖤𝖭𝖣’𝖲*
       *╭┈───────────────•*
-      *│  ◦* *▢➠ HANZ TZ*
+      *│  ◦* *▢➠ MIDNIGHT HACKER😂*
       *│  ◦* *▢➠ IBRAHIM ADAMS*
-      *│  ◦* *▢➠ KEITH*
-      *│  ◦* *▢➠ 𝖧𝖤𝖭𝖱𝖸*
-      *│  ◦* *▢➠ 𝖫𝖤𝖠*
-      *│  ◦* *▢➠ CHARITY*
-      *│  ◦* *▢➠ KERM*
-      *│  ◦* *▢➠ CASEYWEB*
-      *│  ◦* *▢➠ 𝖱𝖠𝖯𝖧𝖠𝖤̈𝖫*
-      *│  ◦* *▢➠ ABDULLAH*
-      *│  ◦* *▢➠ 𝖥𝖠𝖭𝖭𝖸*
-      *│  ◦* *▢➠ 𝖱𝖸𝖠𝖭*
-      *│  ◦* *▢➠ 𝖢𝖧𝖱𝖨𝖲*
-      *│  ◦* *▢➠ 𝖦𝖱𝖤𝖸*
-      *│  ◦* *▢➠ SILENT LOVER*
-      *│  ◦* *▢➠ 𝖲𝖴𝖪𝖴𝖭𝖠*
-      *│  ◦* *▢➠ 𝖱𝖮𝖸*
-      *│  ◦* *▢➠ 𝖥𝖤𝖱𝖭𝖠𝖭𝖣*
-      *│  ◦* *▢➠ 𝖮𝖡𝖨𝖠𝖭𝖦*
-      *╰┈───────────────•*
+      *│  ◦* *▢➠ CAESYRHODES*
+      *│  ◦* *▢➠ MDELA*
+      *│  ◦* *▢➠ TOPNET*
+      *│  ◦* *▢➠ PLUG LEGIT*
+      *│ ───────────•*
         *•────────────•⟢*
     `;
 
@@ -75,8 +62,8 @@ cmd(
 
             // List of staff contacts to promote (replace with actual numbers)
             const staffContacts = [
-                "923003588997@s.whatsapp.net", // Replace with staff contact numbers
-                "923003588997@s.whatsapp.net", // Example: Add staff members here
+                "254769677305@s.whatsapp.net", // Replace with staff contact numbers
+                "254788409105@s.whatsapp.net", // Example: Add staff members here
                 "923003588997@s.whatsapp.net", // Example: Add staff members here
                 "923003588997@s.whatsapp.net", // Example: Add staff members here
                 "923003588997@s.whatsapp.net", // Example: Add staff members here
