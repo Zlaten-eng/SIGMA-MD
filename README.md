@@ -1,12 +1,10 @@
-.<img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=FF0000&center=true&width=910&height=100&lines=THIS+IS+SIGMA-MD" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=FF0000&center=true&width=910&height=100&lines=THIS+IS+SIGMA-MD" alt="Typing SVG" />
 
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=0000FF&center=true&width=910&height=100&lines=HOLLA+THIS+IS+SIGMA-MD;MULTI+DEVICE+WHATSAPP+BOT;MADE+TO+HELP+WHATSAPP+USERS;STAR+AND+FORK+THE+REPO;CREATED+BY+CONWAY" alt="Typing SVG" />
 
- ### 1. Fork This Repository
-
-
+ 
   ### 1. 𐃁FORK THIS REPOSITORY𐃁
 
 `FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
