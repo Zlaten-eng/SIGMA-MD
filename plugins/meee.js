@@ -58,4 +58,4 @@ cmd({
     mentions: [mentionedUser]
   });
 });
-//CODES BY CASEYRHODES 
+//CODES BY HACKLINK TEC.INC 
