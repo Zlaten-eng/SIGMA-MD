@@ -24,7 +24,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃ *✨𝖴ᴘᴛɪᴍᴇ* : *${runtime(process.uptime())}*
 ┃ *💾 𝖱ᴀᴍ ᴜsᴀɢᴇ* : *${usedMem}MB / ${totalMem}MB*
 ┃ *🧑‍💻𝖣ᴇᴘʟᴏʏᴇᴅ ᴏɴ* : *${platform}*
-┃ *👨‍💻𝖮ᴡɴᴇʀ* : *𝖬R CONWAY*
+┃ *👨‍💻𝖮ᴡɴᴇʀ* : *𝖬R CONWAY(NICKY)*
 ┃ *🧬𝖵ᴇʀsɪᴏɴ* : *3.𝟢.𝟢 𝖡𝖤𝖳𝖠*
 ╰──────────────────────┈⊷
 >powered by conway`;
@@ -47,7 +47,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
         // Attach audio within the same "quoted" message for grouping
         await conn.sendMessage(from, { 
-            audio: { url: 'https://files.catbox.moe/851skv.m4a' },
+            audio: { url: 'https://files.catbox.moe/utjsk8.mp3' },
             mimetype: 'audio/mp4',
             ptt: true 
         }, { quoted: mek });
